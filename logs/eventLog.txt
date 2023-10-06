@@ -1,0 +1,15 @@
+20230927	18:35:15	3d461b2d-d090-4650-bbbe-c0b8daeaf7ac	Testing log event
+20230927	18:35:30	a54ac837-c884-441e-af54-e5f789973726	Testing log event
+20230927	18:36:31	15707afc-e2e9-4d62-9596-b83610d061b9	Testing log event
+20230927	18:36:55	ff630092-a7fa-4722-8f13-51139569dd31	Testing log event
+20230927	18:38:30	e9b08b3a-0c1c-48b9-95e0-d46f882aa662	Testing log event
+20230927	18:39:29	206d1833-bbd5-46dd-a287-7209fec00724	Testing log event
+20230927	18:41:52	aa9cdca3-ae0c-4c9b-ad8c-d7e967d41bb2	Testing log event
+20230927	19:34:36	2e685690-cbc7-41d8-a037-07a1ef6d60e8	GET	undefined	/
+20230927	19:34:36	fabb84b0-f819-4844-8a72-89aa9d290c18	GET	undefined	/css/style.css
+20230927	19:35:19	2efb442c-b8a4-469a-ac24-1dc84c40446e	GET	undefined	/
+20230927	19:35:19	16ab8a10-b319-49ef-878a-50e4750ee96b	GET	undefined	/css/style.css
+20230927	19:35:25	ccb76dc0-d8b6-4b3f-8997-1d0d8ceaf870	GET	undefined	/hello
+20230927	19:35:25	04cc9854-2e64-41a7-8c1c-4aadf6ab8929	GET	undefined	/css/styles/style.css
+20230927	19:35:33	41b9f80e-378e-41b0-bf86-644d44cbf1eb	GET	undefined	/
+20230927	19:35:33	6833be00-60fc-4bad-9fe3-627265d9d169	GET	undefined	/css/style.css

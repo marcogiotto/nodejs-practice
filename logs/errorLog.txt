@@ -1,0 +1,21 @@
+20230927	19:57:51	601e444b-a71e-4f94-9662-ffb7d7a571e8	Error: not allow by cors
+20230927	19:57:51	6aff6ad8-b7ba-4dac-bd4e-3550e45d5f9a	Error: not allow by cors
+20230927	20:04:27	e0f7b388-11c5-46d4-8f18-df722eb71940	Error: not allow by cors
+20230927	20:04:27	cca0ed02-26cb-4cbc-86a9-74cc92fc8dd5	Error: not allow by cors
+20230928	18:25:09	cf04720e-42ae-410f-aecd-f1d4f79e23e4	Error: ENOENT: no such file or directory, stat 'D:\practicas\jwt-auth\routes\views\index.html'
+20230928	18:26:47	7a3f891c-d50f-4de8-965d-3a8c510503fe	TypeError: path must be absolute or specify root to res.sendFile
+20230928	18:26:51	cda2cd83-f46c-456e-8b51-c439d9d86707	TypeError: path must be absolute or specify root to res.sendFile
+20230928	19:42:48	4629c82c-6883-4364-b996-2386260ae480	TypeError: uuid.v4 is not a function
+20230928	19:48:38	6db50c60-d270-40c7-8627-eda5b3118743	TypeError: Assignment to constant variable.
+20230928	20:00:57	890eaf69-04cc-4225-b34b-6e1baf82eb0f	ReferenceError: employee is not defined
+20230928	20:02:11	f9ee5429-2fa0-4a6e-b81e-c4c334e49a4b	ReferenceError: employee is not defined
+20230928	20:03:56	8e2c7b37-b9e1-4b6d-a934-1dbaa9a06a06	ReferenceError: employee is not defined
+20230928	20:03:57	5a9a4741-04be-410e-b7fe-ec3dbf58c413	ReferenceError: employee is not defined
+20230928	20:03:57	b5d33fc2-e678-4b12-bd7d-a0ea63e005dd	ReferenceError: employee is not defined
+20230928	20:03:57	340b7af4-0462-4292-a7a0-d6c19c6a4a80	ReferenceError: employee is not defined
+20230928	20:03:57	c73bc29b-0e8f-407b-948b-e88c25fecc30	ReferenceError: employee is not defined
+20230928	20:04:09	472b525f-f973-4db5-a20a-14b83136086a	ReferenceError: employee is not defined
+20230928	20:06:16	e7c128b5-15c4-4b15-a920-3d6b2abeb64a	ReferenceError: employee is not defined
+20230928	20:06:54	ca8467d3-4fb5-4dee-858d-998928c0d90d	ReferenceError: employee is not defined
+20230928	20:10:08	b4950fc7-cdd4-4e53-8ade-d6f7598da96f	ReferenceError: newData is not defined
+20230928	20:10:09	629e3bc3-b1c7-4176-b1ac-631080de265b	ReferenceError: newData is not defined
